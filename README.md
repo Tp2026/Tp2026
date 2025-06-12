@@ -1,16 +1,18 @@
-## Hi there 👋
+# 🌐 Compte GitHub – Formation CIEL
 
-<!--
-**Tp2026/Tp2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon GitHub dédié à ma formation CIEL (Cybersécurité, Informatique et Réseaux, Électronique).
+Ce compte me permet de publier en **privé** mes **TP, projets, intégrations web** et autres travaux liés à ma formation.
 
-Here are some ideas to get you started:
+## 📚 À propos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ce compte est utilisé pour :
+
+- Poster mes **travaux pratiques (TP)**.
+- Organiser mes **projets web**.
+- Suivre ma progression.
+- Partager avec mes **enseignants** pour relecture ou validation.
+
+## 🗂️ Organisation des dépôts
+
+Chaque dépôt correspond à un sujet ou un module de formation :
+
